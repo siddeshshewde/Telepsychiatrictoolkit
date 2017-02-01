@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/media/vidya/LIKI/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vidya/AndroidStudioProjects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
